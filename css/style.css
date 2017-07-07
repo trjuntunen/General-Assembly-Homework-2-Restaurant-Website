@@ -60,6 +60,7 @@ section {
 .section3 {
 	background-image: url('../images/drinks.jpg');
 	color: white;
+	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
 }
